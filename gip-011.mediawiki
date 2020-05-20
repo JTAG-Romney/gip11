@@ -11,7 +11,7 @@
 
 ==Abstract==
 
-Adding anonymous and private transactions to Goldcoin using [zk-SNARKS](https://z.cash/technology/zksnarks/) a novel type of zero-knowledge cryptography.
+Adding anonymous and private transactions to Goldcoin using [zk-SNARKS] a novel type of zero-knowledge cryptography.
 
 ==Motivation==
 
