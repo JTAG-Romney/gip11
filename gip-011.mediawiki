@@ -19,6 +19,6 @@ A cryptocurrency cannot be a true cash payment system unless it utilizes some fo
 
 Any Bitcoin purchase made on Coinbase or Gemini is recorded and every Tx thereafter traceable for life, always leading back to the original purchaser. In addition, thanks to deep learning algorithms, a connect-the-dots system has been created that identifies and maps the majority of all transaction activity. A paper trail of this magnitude is certainly not like cash.
 
-What is needed is a system that removes third-party tracking and provides individuals the freedom and liberty to securely and privately transact without monitor. 
+What is needed is a system that removes third-party tracking providing individuals the freedom and liberty to securely and privately transact without monitor. 
 
 
