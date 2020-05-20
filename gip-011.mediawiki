@@ -15,5 +15,5 @@ Adding anonymous and private transactions to Goldcoin using zk-SNARKS a novel ty
 
 ==Motivation==
 
-A cryptocurrency is not a true cash payment system unless it utilizes some form of privacy to protect users from invasive oversight and tracking. For example, like a serial number on a firearm, any Bitcoin purchase made on Coinbase or Gemini is recorded and every Tx thereafter is tracable for life, always leading back to the original purchaser. A paper trail of this magnitude is certainly not "like cash".
+A cryptocurrency is not a true cash payment system unless it utilizes some form of privacy to protect users from invasive oversight and tracking. For example, any Bitcoin purchase made on Coinbase or Gemini is recorded and every Tx thereafter is tracable for life, always leading back to the original purchaser. A paper trail of this magnitude is certainly not "like cash".
 
